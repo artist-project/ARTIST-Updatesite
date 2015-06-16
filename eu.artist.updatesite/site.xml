@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/eu.artist.feature_1.0.0.201505291252.jar" id="eu.artist.feature" version="1.0.0.201505291252">
+   <feature url="features/eu.artist.feature_1.0.0.201506161208.jar" id="eu.artist.feature" version="1.0.0.201506161208">
       <category name="ARTIST"/>
    </feature>
    <category-def name="ARTIST" label="ARTIST"/>

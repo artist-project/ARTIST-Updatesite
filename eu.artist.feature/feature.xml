@@ -147,6 +147,10 @@ This Agreement is governed by the laws of the State of New York and the intellec
          id="eu.artist.migration.mut.feature"
          version="0.0.0"/>
 
+   <includes
+         id="eu.artist.migration.deployment.feature"
+         version="0.0.0"/>
+
    <plugin
          id="eu.artist.suite"
          download-size="0"
