@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/eu.artist.feature_1.0.0.201506231530.jar" id="eu.artist.feature" version="1.0.0.201506231530">
+   <feature url="features/eu.artist.feature_1.0.0.201507071422.jar" id="eu.artist.feature" version="1.0.0.201507071422">
       <category name="ARTIST"/>
    </feature>
    <category-def name="ARTIST" label="ARTIST">
@@ -8,8 +8,6 @@
          ARTIST is for software owners or consultants who need to modernize several similar applications towards the cloud.
 
 It’s an end-to-end solution that provides the client with the modernized software. A tool-supported methodology supports the user to perform the modernization.
-
-Unlike most alternatives, the methodology is Open Source, is source and target agnostic, and emphasizes the reuse of work from one project to the next leading to greater cost reductions and shorter cycles.
       </description>
    </category-def>
 </site>
