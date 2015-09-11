@@ -1,7 +1,9 @@
 package eu.artist.suite.preferences.pages;
 
 import org.eclipse.jface.preference.BooleanFieldEditor;
+import org.eclipse.jface.preference.FieldEditor;
 import org.eclipse.jface.preference.FieldEditorPreferencePage;
+import org.eclipse.jface.util.PropertyChangeEvent;
 import org.eclipse.ui.IWorkbench;
 import org.eclipse.ui.IWorkbenchPreferencePage;
 
@@ -25,5 +27,12 @@ public class ARTIST extends FieldEditorPreferencePage implements IWorkbenchPrefe
 
 		 addField(new BooleanFieldEditor(PreferenceConstants.ARTIST_USE_INTERNAL_BROWSER.getValue(),
 				 PreferenceConstants.ARTIST_USE_INTERNAL_BROWSER.getText(), getFieldEditorParent()));
+	}
+	
+	@Override
+	public void propertyChange(PropertyChangeEvent event) {
+		super.propertyChange(event);
+		BooleanFieldEditor abc = (BooleanFieldEditor) event.getSource();
+		System.out.println(((BooleanFieldEditor) event.getSource()).getPreferenceName().equals(""));
 	}
 }

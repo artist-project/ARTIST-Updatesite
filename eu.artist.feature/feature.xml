@@ -136,10 +136,6 @@ This Agreement is governed by the laws of the State of New York and the intellec
          version="0.0.0"/>
 
    <includes
-         id="eu.artist.migration.modernization.ct.feature"
-         version="0.0.0"/>
-
-   <includes
          id="eu.artist.repository.feature"
          version="0.0.0"/>
 
@@ -149,6 +145,10 @@ This Agreement is governed by the laws of the State of New York and the intellec
 
    <includes
          id="eu.artist.migration.deployment.feature"
+         version="0.0.0"/>
+
+   <includes
+         id="eu.artist.migration.cot.feature"
          version="0.0.0"/>
 
    <plugin
