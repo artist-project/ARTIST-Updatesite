@@ -48,6 +48,7 @@
                id="eu.artist.suite.toolbar">
             <command
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
+                  icon="icons/mat.PNG"
                   label="MAT"
                   style="push">
                <parameter
@@ -57,6 +58,7 @@
             </command>
             <command
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
+                  icon="icons/mpt.png"
                   label="MPT"
                   style="push">
                <parameter
@@ -66,6 +68,7 @@
             </command>
             <command
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
+                  icon="icons/ct.png"
                   label="CT"
                   style="push">
                <parameter
@@ -97,6 +100,7 @@
             </separator>
             <command
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
+                  icon="icons/mat.PNG"
                   label="Maturity Assessment Tool"
                   style="push">
                <parameter
@@ -106,6 +110,7 @@
             </command>
             <command
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
+                  icon="icons/mpt.png"
                   label="Methodology Process Tool"
                   style="push">
                <parameter
@@ -115,6 +120,7 @@
             </command>
             <command
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
+                  icon="icons/ct.png"
                   label="Certification Tool"
                   style="push">
                <parameter
