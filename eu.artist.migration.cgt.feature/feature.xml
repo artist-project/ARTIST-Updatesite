@@ -103,7 +103,27 @@ This Agreement is governed by the laws of the State of New York and the intellec
    </license>
 
    <plugin
+         id="eu.artist.migration.mmc"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+   <plugin
          id="eu.artist.migration.modernization.uml2java"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="eu.artist.migration.modernization.uml2java.gwt"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="eu.artist.migration.modernization.uml2java.modisco"
          download-size="0"
          install-size="0"
          version="0.0.0"
@@ -122,11 +142,5 @@ This Agreement is governed by the laws of the State of New York and the intellec
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-
-   <plugin
-         id="eu.artist.migration.mmc"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"/>
 
 </feature>
