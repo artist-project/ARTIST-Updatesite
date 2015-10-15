@@ -24,9 +24,6 @@ public class PreferenceInitializer extends AbstractPreferenceInitializer {
 		store.setDefault(PreferenceConstants.TFT_REPORT_PATH.getValue(), "");
 		
 		store.setDefault(PreferenceConstants.MAT_URL.getValue(), "http://54.196.142.179:8080/ArtistEva/");
-		store.setDefault(PreferenceConstants.MAT_USERNAME.getValue(), "yosu");
-		store.setDefault(PreferenceConstants.MAT_PASSWORD.getValue(), "Mirem0+");
-		
 		store.setDefault(PreferenceConstants.MPT_URL.getValue(), "http://147.102.19.204:8082/eu.artist.methodology.mpt.webapp/");
 		store.setDefault(PreferenceConstants.CT_URL.getValue(), "http://54.158.226.57:8080/ArtistCer/");
 		

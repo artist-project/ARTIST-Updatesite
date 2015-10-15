@@ -116,10 +116,6 @@ This Agreement is governed by the laws of the State of New York and the intellec
          version="0.0.0"/>
 
    <includes
-         id="eu.artist.migration.deployment.feature"
-         version="0.0.0"/>
-
-   <includes
          id="eu.artist.migration.mdt.feature"
          version="0.0.0"/>
 
@@ -144,11 +140,11 @@ This Agreement is governed by the laws of the State of New York and the intellec
          version="0.0.0"/>
 
    <includes
-         id="eu.artist.migration.deployment.feature"
+         id="eu.artist.migration.cot.feature"
          version="0.0.0"/>
 
    <includes
-         id="eu.artist.migration.cot.feature"
+         id="eu.artist.migration.deployment.feature"
          version="0.0.0"/>
 
    <plugin
@@ -174,6 +170,13 @@ This Agreement is governed by the laws of the State of New York and the intellec
 
    <plugin
          id="MDE.AnyModel2Uml.Plugin"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.slf4j.api"
          download-size="0"
          install-size="0"
          version="0.0.0"

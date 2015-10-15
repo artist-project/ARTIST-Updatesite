@@ -50,7 +50,8 @@
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
                   icon="icons/mat.PNG"
                   label="MAT"
-                  style="push">
+                  style="push"
+                  tooltip="Maturity Assessment Tool">
                <parameter
                      name="eu.artist.suite.commands.parameter.URLIdentifier"
                      value="mat_url">
@@ -60,7 +61,8 @@
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
                   icon="icons/mpt.png"
                   label="MPT"
-                  style="push">
+                  style="push"
+                  tooltip="Methodology Process Tool">
                <parameter
                      name="eu.artist.suite.commands.parameter.URLIdentifier"
                      value="mpt_url">
@@ -70,7 +72,8 @@
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
                   icon="icons/ct.png"
                   label="CT"
-                  style="push">
+                  style="push"
+                  tooltip="Certification Tool">
                <parameter
                      name="eu.artist.suite.commands.parameter.URLIdentifier"
                      value="ct_url">
@@ -88,7 +91,8 @@
                   commandId="org.eclipse.ui.newWizard"
                   icon="icons/createARTISTProject.png"
                   label="New ARTIST Migration Project"
-                  style="push">
+                  style="push"
+                  tooltip="New ARTIST Migration Project">
                <parameter
                      name="newWizardId"
                      value="eu.artist.suite.newproject.wizard">
@@ -102,7 +106,8 @@
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
                   icon="icons/mat.PNG"
                   label="Maturity Assessment Tool"
-                  style="push">
+                  style="push"
+                  tooltip="Maturity Assessment Tool">
                <parameter
                      name="eu.artist.suite.commands.parameter.URLIdentifier"
                      value="mat_url">
@@ -112,7 +117,8 @@
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
                   icon="icons/mpt.png"
                   label="Methodology Process Tool"
-                  style="push">
+                  style="push"
+                  tooltip="Methodology Process Tool">
                <parameter
                      name="eu.artist.suite.commands.parameter.URLIdentifier"
                      value="mpt_url">
@@ -122,7 +128,8 @@
                   commandId="eu.artist.suite.commands.launchBrowserWithURL"
                   icon="icons/ct.png"
                   label="Certification Tool"
-                  style="push">
+                  style="push"
+                  tooltip="Certification Tool">
                <parameter
                      name="eu.artist.suite.commands.parameter.URLIdentifier"
                      value="ct_url">
