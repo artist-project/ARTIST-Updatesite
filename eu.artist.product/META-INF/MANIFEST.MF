@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ARTIST Suite Product
+Bundle-SymbolicName: eu.artist.product;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: eu.artist.product.Activator
+Bundle-Vendor: ARTIST Consortium
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
