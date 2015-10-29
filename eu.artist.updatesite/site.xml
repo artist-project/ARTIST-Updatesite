@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/eu.artist.feature_1.0.0.201510281645.jar" id="eu.artist.feature" version="1.0.0.201510281645"/>
+   <feature url="features/eu.artist.feature_1.0.0.201510291126.jar" id="eu.artist.feature" version="1.0.0.201510291126"/>
    <category-def name="ARTIST" label="ARTIST">
       <description>
          ARTIST is for software owners or consultants who need to modernize several similar applications towards the cloud.
